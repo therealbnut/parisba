@@ -182,6 +182,7 @@ var wordA = [
 'Alcyone',
 'Alexander',
 'Anaximandros',
+'Andrews',
 'Androcles',
 'Andromeda',
 'Antenor',
